@@ -2,18 +2,18 @@
 This project is an interactive HR analytics dashboard built in excel using an employee performance dataset from Kaggle. The dashboard analyzes employee performance, KPI Achievement, training scores, recruitment channels, and service group.
 
 ## Features
-- KPI Cards
+KPI Cards
  - Total employees
  - Average Training Score
  - KPI Achievement rate
  - Awards Won %
 
-- Interactive slicers for:
+ Interactive slicers for:
  - Department
  - Recruitment Channel
- - Servie Group
+ - Service Group
 
-- Charts showing:
+ Charts showing:
  - Department Performance
  - Recruitment Channel Performance
  - Service Group Distribution
